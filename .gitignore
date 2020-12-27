@@ -1,0 +1,6 @@
+### Go
+# Output of the go coverage tool
+coverage.*
+# dependencies and (zipped) packages
+bin
+*.zip
